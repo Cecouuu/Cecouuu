@@ -5,6 +5,7 @@ Hello, I'm <i><b>Tsvetoslav</b></i><br><br>Aspiring web developer interested in 
 # 📚 Currently learning:<br>
 - JavaScript<br>
 - Modern web development workflows<br>
+- Resposive designs
 
 # 🕰️ Future learnings:<br>
 - Laravel (basics)<br>
